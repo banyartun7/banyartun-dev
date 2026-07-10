@@ -39,17 +39,6 @@ Building modern, responsive, and user-friendly web applications 🚀
 
 ## 🚀 Featured Projects
 
-### 🌐 Job Portal Website
-A web application that connects job seekers and employers.
-
-**Technologies:**
-- Php
-- Bootstrap
-- Mysql
-- AJAX
-
----
-
 ### 💰 Wallet Management System
 A finance management application for tracking income and expenses.
 
